@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "",
+            "imgsrc": "/img/prod1 cat2.jpg",
+            "desc": ""
+        },
+        {
+            "id": 2,
+            "title": "",
+            "imgsrc": "/img/product cat1.jpg",
+            "desc": ""
+        },
+        {
+            "id": 3,
+            "title": "",
+            "imgsrc": "/img/product1 cat3.PNG",
+            "desc": ""
+        },
+        {
+            "id": 4,
+            "title": "",
+            "imgsrc": "/img/product2 cat1.jpg",
+            "desc": ""
+        },
+        {
+            "id": 5,
+            "title": "",
+            "imgsrc": "/img/product3 cat1.jpg",
+            "desc": ""
+        },
+        {
+            "id": 6,
+            "title": "",
+            "imgsrc": "/img/product4 cat1.jpg",
+            "desc": ""
+        },
+        {
+            "id": 7,
+            "title": "Lucknowi Kurti",
+            "imgsrc": "/img/prod3 cat3.jpg",
+            "desc": "Bright yellow kurti with white thread-work, perfect for any occasion, pair it with oxidized jewellery for a look to remember!"
+        },
+        {
+            "id": 8,
+            "title": "",
+            "imgsrc": "/img/prod4 cat2.jpg",
+            "desc": ""
+        },
+        {
+            "id": 9,
+            "title": "",
+            "imgsrc": "/img/prod3 cat2.jpg",
+            "desc": ""
+        }
+    ]
+}
